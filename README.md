@@ -1,69 +1,67 @@
 # amazing-applications
 
-authentik
+authentik https://github.com/goauthentik/authentik
 
-actualBudget
+actualBudget https://github.com/actualbudget/actual
 
-audiobookshelf
+audiobookshelf https://github.com/advplyr/audiobookshelf
 
-baikal
+baikal https://github.com/sabre-io/Baikal
 
-bitwarden
+bitwarden https://github.com/bitwarden/clients
 
-beaverhabits
+beaverhabits https://github.com/daya0576/beaverhabits
 
-binhex-qbitbittorrent
+binhex-qbitbittorrent https://github.com/binhex/arch-qbittorrentvpn
 
-fail2ban
+fail2ban https://github.com/fail2ban/fail2ban
 
-filebrowser
+filebrowser https://github.com/filebrowser/filebrowser
 
-flame
+flame https://github.com/pawelmalak/flame
 
-freshrss
+freshrss https://github.com/FreshRSS/FreshRSS
 
-frigate
+frigate https://github.com/blakeblackshear/frigate
 
-ghost
+ghost https://github.com/TryGhost/Ghost
 
-hoarder
+hoarder https://github.com/hoarder-app/hoarder
 
-homebox
+homebox https://github.com/hay-kot/homebox
 
-immich
+immich https://github.com/immich-app/immich
+ 
+jellyfinhttps://github.com/jellyfin/jellyfin
 
-jellyfin
+linkding https://github.com/sissbruecker/linkding
 
-linkding
+mediawiki https://github.com/wikimedia/mediawiki
 
-mediawiki
+mealie https://github.com/mealie-recipes/mealie
 
-mealie
+memos https://github.com/usememos/memos
 
-memos
+navidrome https://github.com/navidrome/navidrome
 
-navidrome
+nextcloud https://github.com/nextcloud/docker
 
-nextcloud
+NPM https://github.com/NginxProxyManager/nginx-proxy-manager
 
-mariadb-official-nextcloud
+paperless-ngx https://github.com/paperless-ngx/paperless-ngx
 
-NPM
+podgrab https://github.com/akhilrex/podgrab
 
-paperless-ngx
-
-podgrab
-
-portainerCE
+portainerCE https://github.com/portainer/portainer
 
 protonmail-bridge
 
-stirlingpdf
+stirlingpdf https://github.com/Stirling-Tools/Stirling-PDF
 
-traggo
+traggo https://github.com/traggo/server
 
-trilium
+trilium https://github.com/zadam/trilium
 
-vaultwarden
+vaultwarden https://github.com/dani-garcia/vaultwarden
 
 youtubedl
