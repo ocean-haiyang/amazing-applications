@@ -65,3 +65,35 @@ trilium https://github.com/zadam/trilium
 vaultwarden https://github.com/dani-garcia/vaultwarden
 
 youtubedl
+
+#iphone apps
+
+Bitwarden
+
+Tailscale
+
+iSH
+
+Immich
+
+Nextcloud
+
+Photosync
+
+Jellybox
+
+Localsend
+
+Paperless
+
+OpenVPN
+
+Finamp
+
+Jellyfin
+
+MoeMemos
+
+FluentReader
+
+Plappa
